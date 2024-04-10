@@ -14,7 +14,7 @@ To use this container, deploy it within your AWS Fargate environment in the same
 2. Navigate to the directory containing the Dockerfile.
 3. Build the container using Docker:
    ```
-   docker build -t sysdig-fargate-detect .
+   docker build -t sysdig-fargate-test .
    ```
 
 ### Deploying to AWS Fargate
